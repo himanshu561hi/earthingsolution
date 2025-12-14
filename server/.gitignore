@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Environment Variables (SENSITIVE DATA)
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Uploads (Agar images local save kar rahe ho to)
+uploads/
+public/images/
+
+# OS metadata
+.DS_Store
+Thumbs.db
